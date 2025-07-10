@@ -1,0 +1,8 @@
+[package]
+name = "jogo_da_velha_gui"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.28.0"
+egui = "0.28.0"
